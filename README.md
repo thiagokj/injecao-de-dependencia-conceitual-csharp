@@ -201,7 +201,7 @@ public class OrderController : Controller
 }
 ```
 
-O conceito é: **não podemos ter dependências acopladas**. Trabalhando dessa forma não é possivel fazer testes e outras modificações de forma fácil.
+O conceito é: **não podemos ter dependências acopladas**. Trabalhando dessa forma não é possível fazer testes e outras modificações de forma fácil.
 
 ## IoC ou Inversão de Controle
 
